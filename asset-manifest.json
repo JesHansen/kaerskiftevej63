@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/kaerskiftevej63/static/css/main.7c421f3c.chunk.css",
-    "main.js": "/kaerskiftevej63/static/js/main.131e1eb7.chunk.js",
-    "main.js.map": "/kaerskiftevej63/static/js/main.131e1eb7.chunk.js.map",
+    "main.js": "/kaerskiftevej63/static/js/main.0ce99e97.chunk.js",
+    "main.js.map": "/kaerskiftevej63/static/js/main.0ce99e97.chunk.js.map",
     "runtime-main.js": "/kaerskiftevej63/static/js/runtime-main.61e4d98b.js",
     "runtime-main.js.map": "/kaerskiftevej63/static/js/runtime-main.61e4d98b.js.map",
-    "static/js/2.53bea590.chunk.js": "/kaerskiftevej63/static/js/2.53bea590.chunk.js",
-    "static/js/2.53bea590.chunk.js.map": "/kaerskiftevej63/static/js/2.53bea590.chunk.js.map",
+    "static/js/2.a7fa63cc.chunk.js": "/kaerskiftevej63/static/js/2.a7fa63cc.chunk.js",
+    "static/js/2.a7fa63cc.chunk.js.map": "/kaerskiftevej63/static/js/2.a7fa63cc.chunk.js.map",
     "index.html": "/kaerskiftevej63/index.html",
-    "precache-manifest.d3b321e9b3026163d0890a5bd1bf6d8d.js": "/kaerskiftevej63/precache-manifest.d3b321e9b3026163d0890a5bd1bf6d8d.js",
+    "precache-manifest.43be066d1c9c61d4e4c2af42fd7af1e8.js": "/kaerskiftevej63/precache-manifest.43be066d1c9c61d4e4c2af42fd7af1e8.js",
     "service-worker.js": "/kaerskiftevej63/service-worker.js",
     "static/css/main.7c421f3c.chunk.css.map": "/kaerskiftevej63/static/css/main.7c421f3c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.61e4d98b.js",
-    "static/js/2.53bea590.chunk.js",
+    "static/js/2.a7fa63cc.chunk.js",
     "static/css/main.7c421f3c.chunk.css",
-    "static/js/main.131e1eb7.chunk.js"
+    "static/js/main.0ce99e97.chunk.js"
   ]
 }
