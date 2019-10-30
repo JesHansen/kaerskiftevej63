@@ -1,4 +1,4 @@
-// Ticker.tsx
+﻿// Ticker.tsx
 
 import React, { useState, useEffect } from "react";
 import TickLogic from "./TickLogic";
