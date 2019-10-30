@@ -1,4 +1,4 @@
-﻿// TickLogic.ts
+// TickLogic.ts
 
 class TickLogic {
   private _periods: [Date, Date, number, number][];
