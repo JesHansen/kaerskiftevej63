@@ -1,0 +1,50 @@
+[
+  {
+    "Start": "2019-10-01",
+    "End": "2020-01-01",
+    "StartAmount": 2360000,
+    "EndAmount": 2341388
+  },
+  {
+    "Start": "2020-01-01",
+    "End": "2020-04-01",
+    "StartAmount": 2341388,
+    "EndAmount": 2313295
+  },
+  {
+    "Start": "2020-04-01",
+    "End": "2020-07-01",
+    "StartAmount": 2313295,
+    "EndAmount": 2285202
+  },
+  {
+    "Start": "2020-07-01",
+    "End": "2020-10-01",
+    "StartAmount": 2285202,
+    "EndAmount": 2257109
+  },
+  {
+    "Start": "2020-10-01",
+    "End": "2021-01-01",
+    "StartAmount": 2257109,
+    "EndAmount": 2229016
+  },
+  {
+    "Start": "2021-01-01",
+    "End": "2021-04-01",
+    "StartAmount": 2229016,
+    "EndAmount": 2200923
+  },
+  {
+    "Start": "2021-04-01",
+    "End": "2021-07-01",
+    "StartAmount": 2200923,
+    "EndAmount": 2172830
+  },
+  {
+    "Start": "2021-07-01",
+    "End": "2021-10-01",
+    "StartAmount": 2172830,
+    "EndAmount": 2144737
+  }
+]

@@ -1,16 +1,14 @@
-// Ticker.tsx
-
 import React, { useState, useEffect } from "react";
 import TickLogic from "./TickLogic";
 
 const Ticker: React.FC = () => {
   const [pctMyHouse, setHousePct] = useState([0, 0]);
 
-  let tl = new TickLogic();
   useEffect(() => {
     const interval = setInterval(() => {
+      let tl = new TickLogic();
       setHousePct(() => tl.GetMyHousePercentage(new Date()));
-    }, 1000);
+    }, 661);
     return () => clearInterval(interval);
   }, []);
 
